@@ -2631,7 +2631,7 @@ PrefabInstance:
     - target: {fileID: 6748057723417741546, guid: 5fb30e24d84b7ec4db42586d5c8896d2,
         type: 3}
       propertyPath: groundLayer.m_Bits
-      value: 8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6748057723417741546, guid: 5fb30e24d84b7ec4db42586d5c8896d2,
         type: 3}
